@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "Morango",
+        "descricao": "Bandeja de morango com 24un",
+        "preco": 15.0,
+        "imagem": "../Imagens/morango.webp" 
+    },
+    {
+        "id": 2,
+        "nome": "Laranja",
+        "descricao": "Saco de laranja com 12un",
+        "preco": 13.50,
+        "imagem": "../Imagens/laranja.jpeg"
+    },
+    {
+        "id": 3,
+        "nome": "Maçã",
+        "descricao": "6un de Maçã",
+        "preco": 7.60,
+        "imagem": "../Imagens/maça.webp"
+    },
+    {
+        "id": 4,
+        "nome": "Banana",
+        "descricao": "Fardo de 7 Banana",
+        "preco": 6.89,
+        "imagem": "../Imagens/banana.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Mamão",
+        "descricao": "3 Mamão",
+        "preco": 7.99,
+        "imagem": "../Imagens/mamao.webp"
+    },
+    {
+        "id": 6,
+        "nome": "Abacaxi",
+        "descricao": "2 Abacaxi",
+        "preco": 8.90,
+        "imagem": "../Imagens/abacaxi.webp"
+    },
+    {
+        "id": 7,
+        "nome": "Uva",
+        "descricao": "Pé de Uva",
+        "preco": 8.99,
+        "imagem": "../Imagens/uva.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Melancia",
+        "descricao": "Banca de Melancia",
+        "preco": 12.00,
+        "imagem": "../Imagens/melancia.webp"
+    },
+    {
+        "id": 9,
+        "nome": "Manga",
+        "descricao": "2un de Manga",
+        "preco": 11.50,
+        "imagem": "../Imagens/manga.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Abacate",
+        "descricao": "1 Abacate Aberto",
+        "preco": 7.59,
+        "imagem": "../Imagens/abate.webp"
+    }
+]
