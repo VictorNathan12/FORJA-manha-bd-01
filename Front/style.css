@@ -7,6 +7,17 @@
 body{
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url("../Imagens/sol.gif");
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    text-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 .results{
@@ -18,5 +29,37 @@ body{
     width: 100%;
     padding: 20px;
     border: 2px solid black;
+    background: #ff191938;
+    background: linear-gradient(90deg,rgba(255, 25, 25, 0.559) 0%, rgba(0, 0, 31, 0.506) 35%, rgba(195, 0, 255, 0.554) 100%);
+    border-radius: 20px;
+}
 
+.card{
+    border: 2px solid black;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: rgb(70, 70, 70);
+    color: #ffffff;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    transition: all 200ms linear;
+}
+
+.card:hover{
+    cursor: pointer;
+    background-color: gray;
+    color: #ffffff;
+    height: 250px;
+    width: 350;
+}
+
+.card img{
+    width: 200px;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
 }
